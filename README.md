@@ -67,13 +67,17 @@
 ## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitishmodi&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=14110f&title_color=C18A68&icon_color=9A4F2D&text_color=F6F1EB" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nitishmodi&show_icons=true&include_all_commits=true&count_private=false&hide=stars,contribs&hide_border=true&bg_color=14110f&title_color=C18A68&icon_color=9A4F2D&text_color=F6F1EB" alt="GitHub stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitishmodi&hide_border=true&background=14110F&stroke=9A4F2D&ring=C18A68&fire=C18A68&currStreakLabel=F6F1EB&sideLabels=F6F1EB&currStreakNum=F6F1EB&sideNums=F6F1EB&dates=C18A68" alt="GitHub streak" height="165" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitishmodi&layout=compact&langs_count=8&hide_border=true&bg_color=14110f&title_color=C18A68&text_color=F6F1EB" alt="Top languages" height="165" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nitishmodi&theme=github_dark" alt="Repositories per language" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-act-graph.rodriaum.com/graph?username=Nitishmodi&bg_color=14110f&color=F6F1EB&line=C18A68&point=9A4F2D&area=true&hide_border=true&custom_title=Contribution%20graph" alt="Contribution graph" width="100%" />
 </p>
 
 ## Experience
