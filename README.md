@@ -67,7 +67,7 @@
 ## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitishmodi&show_icons=true&include_all_commits=true&count_private=false&hide=stars,contribs&hide_border=true&bg_color=14110f&title_color=C18A68&icon_color=9A4F2D&text_color=F6F1EB" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nitishmodi&show_icons=true&hide=stars,contribs&hide_border=true&bg_color=14110f&title_color=C18A68&icon_color=9A4F2D&text_color=F6F1EB" alt="GitHub stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitishmodi&hide_border=true&background=14110F&stroke=9A4F2D&ring=C18A68&fire=C18A68&currStreakLabel=F6F1EB&sideLabels=F6F1EB&currStreakNum=F6F1EB&sideNums=F6F1EB&dates=C18A68" alt="GitHub streak" height="165" />
 </p>
 
